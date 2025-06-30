@@ -251,9 +251,9 @@ INSERT INTO patients (name, diagnosis, bill_amount, assigned_doctor_id) VALUES (
 
 ✅ [Baeldung: Spring Data JPA – Custom Queries](https://www.baeldung.com/spring-data-jpa-query)
 ✅ [Spring.io Data JPA Docs](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods)
-✅ [PostgreSQL JOINs](https://www.postgresqltutorial.com/postgresql-joins/)
-✅ [Spring @ManyToOne tutorial](https://www.baeldung.com/jpa-many-to-one)
-✅ [Hibernate Native Queries](https://www.baeldung.com/hibernate-native-queries)
+✅ [PostgreSQL JOINs](https://www.w3schools.com/postgresql/postgresql_joins.php)
+✅ [Spring @ManyToOne tutorial](https://www.baeldung.com/hibernate-one-to-many)
+✅ [Hibernate Native Queries](https://thorben-janssen.com/jpa-native-queries/)
 
 ---
 
