@@ -1,16 +1,3 @@
-# 📦 2️⃣ The README.md to Share
-
-Below is a **complete ready-to-use README.md** with:
-
-✅ Motivating intro
-✅ Clear tasks & steps
-✅ Lots of hints
-✅ Suggested resources
-✅ Grading rubric
-
----
-
-```markdown
 # 🏥 Hospital Management REST API Assignment
 
 ## 📜 Overview
